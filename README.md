@@ -1,71 +1,63 @@
+### Hi there, I'm Flavio Franchich 👋
+
+Soy **Ingeniero en Computación y Desarrollador Backend Java**, especializado en construir aplicaciones **robustas, escalables y mantenibles** utilizando el ecosistema de **Spring Boot**.  
+Me enfoco en aplicar **buenas prácticas**, diseñar soluciones eficientes y trabajar sobre arquitecturas tanto **monolíticas** como **basadas en microservicios**.
+
+Disfruto resolver problemas complejos, optimizar procesos backend y colaborar con equipos que fomenten el aprendizaje continuo y la mejora constante.
+
+---
+
+## 🚀 Sobre mí
+
+- 💻 Backend Developer con experiencia en **Spring Boot**, **Spring Security**, **WebFlux**, **Spring Cloud** y **Spring Data JPA**.  
+- 🧩 Desarrollo APIs escalables con enfoque en arquitectura limpia y principios SOLID.  
+- 🐳 Manejo contenedores con **Docker** y despliegues en la nube usando **AWS**.  
+- 🗄️ Trabajo con bases de datos relacionales (**MySQL**, **PostgreSQL**) y no relacionales (**MongoDB**, **Cassandra**).  
+- ⚙️ Entusiasta de la automatización, buenas prácticas y la mejora continua.
+
+---
+
+## 🛠️ Skills
+
+### 🧑‍💻 Frameworks y Librerías
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23FFFFFF?style=for-the-badge&logo=spring%20boot&logoColor=%23FFFFFF&color=%236DB33F)
+![Spring](https://img.shields.io/badge/Spring-%23FFFFFF?style=for-the-badge&logo=spring&logoColor=%23FFFFFF&color=%236DB33F)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%23FFFFFF?style=for-the-badge&logo=springsecurity&logoColor=%23FFFFFF&color=%236DB33F)
+
+### 🐳 Infraestructura y Nube
+![Docker](https://img.shields.io/badge/DOCKER-2D66FC?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&color=%232D66FC)
+![AWS](https://img.shields.io/badge/AWS-%234479A1?style=for-the-badge&logoColor=%23FFFFFF&color=%23ff920d)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF&color=%23326CE5)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&color=%232b6287)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234479A1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF&color=%232b6287)
+![MongoDB](https://img.shields.io/badge/mongodb-%234479A1?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF&color=%2347A248)
+
+### 🧰 Lenguajes
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%234479A1?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%2347A248)
+
+### 🧪 Tools & IDEs
+![Git](https://img.shields.io/badge/git-2D66FC?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23FF8F29)
+![GitHub](https://img.shields.io/badge/github-0000?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=000000)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-CC0A63?style=for-the-badge&logo=intellijidea&logoColor=%23FFFFFF&color=CC0A63)
+![Vim](https://img.shields.io/badge/vim-CC0A63?style=for-the-badge&logo=vim&logoColor=%23FFFFFF&color=019733)
+![VS Code](https://img.shields.io/badge/VISUAL%20ESTUDIO%20CODE-CC0A63?style=for-the-badge&logoColor=%23FFFFFF&color=0400FF)
+
+---
+
+## 📫 Connect with me
+
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/flavio_franchich/?hl=es)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=000000" />](https://github.com/ingflavio/ingflavio/blob/main/README.md)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/flavio-franchich-41a5b92a2/)
+
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+---
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
-
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ingflavio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingflavio&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
