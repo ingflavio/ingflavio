@@ -57,7 +57,6 @@ Disfruto resolver problemas complejos, optimizar procesos backend y colaborar co
 
 </p>
 
----
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ingflavio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingflavio&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+
+
